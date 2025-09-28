@@ -1,6 +1,7 @@
 import React from 'react';
 import { ArrowRight, CheckCircle, Users, Award, Clock } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import kilgoris from '../components/kilgoris.png';
 
 const Home = () => {
   const stats = [
@@ -117,7 +118,7 @@ const Home = () => {
             
             <div className="relative">
               <img
-                src="https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src={ kilgoris } //"https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800"
                 alt="Construction site"
                 className="rounded-xl shadow-2xl"
               />
