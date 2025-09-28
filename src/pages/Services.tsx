@@ -1,10 +1,13 @@
 import React from 'react';
 import { Home, Building, Wrench, Droplets, Loader as Road, Shield } from 'lucide-react';
+import residential from './residential.JPG';
+
+
 
 const Services = () => {
   const services = [
     {
-      icon: Home,
+      icon: residential,
       title: 'Residential Construction',
       description: 'Complete home construction from foundation to finishing, including modern mansions, bungalows, and apartment buildings.',
       features: ['Foundation work', 'Masonry construction', 'Roofing systems', 'Interior finishing', 'Plumbing & electrical']
