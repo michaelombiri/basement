@@ -10,7 +10,6 @@ const Portfolio = () => {
       title: 'Modern Residential Villa',
       category: 'residential',
       location: 'Eldoret, Uasin Gishu County',
-      value: '6 Million KSH',
       year: '2022',
       image: 'https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Complete modern mansion with swimming pool and landscaping.'
@@ -20,7 +19,6 @@ const Portfolio = () => {
       title: 'SUTECO Office Building',
       category: 'commercial',
       location: 'Mbita, Homa Bay County',
-      value: '12 Million KSH',
       year: '2015-2016',
       image: 'https://images.pexels.com/photos/273209/pexels-photo-273209.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Modern office building for SUTECO cooperative society.'
@@ -30,7 +28,6 @@ const Portfolio = () => {
       title: 'Nyatambe Secondary School Classrooms',
       category: 'educational',
       location: 'Homa Bay County',
-      value: '3.2 Million KSH',
       year: '2016-2017',
       image: 'https://images.pexels.com/photos/256490/pexels-photo-256490.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Two modern classrooms with modern facilities.'
@@ -40,7 +37,6 @@ const Portfolio = () => {
       title: 'Holiday Inn Rusinga',
       category: 'commercial',
       location: 'Rusinga Island',
-      value: '13.9 Million KSH',
       year: '2007-2008',
       image: 'https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Complete hotel construction with modern amenities.'
@@ -50,7 +46,6 @@ const Portfolio = () => {
       title: 'Amazon Guest House',
       category: 'commercial',
       location: 'Mbita',
-      value: '12 Million KSH',
       year: '2008-2010',
       image: 'https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Modern guest house with full hospitality facilities.'
@@ -60,7 +55,6 @@ const Portfolio = () => {
       title: 'Hope School Dormitory',
       category: 'educational',
       location: 'Mbita Sub County',
-      value: '5.6 Million KSH',
       year: '2017',
       image: 'https://images.pexels.com/photos/1462630/pexels-photo-1462630.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Modern dormitory facilities for students.'
@@ -70,7 +64,6 @@ const Portfolio = () => {
       title: 'Kosome Bridge Construction',
       category: 'infrastructure',
       location: 'Buoye Kolwa East',
-      value: '9.7 Million KSH',
       year: '2020',
       image: 'https://images.pexels.com/photos/1117452/pexels-photo-1117452.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Bridge construction project improving community connectivity.'
@@ -80,7 +73,6 @@ const Portfolio = () => {
       title: 'Three Storey Commercial Building',
       category: 'commercial',
       location: 'Awasi, Kisumu County',
-      value: '16 Million KSH',
       year: '2013-Present',
       image: 'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Multi-story commercial complex ongoing construction.'
