@@ -90,6 +90,24 @@ const Portfolio = () => {
       year: '2013-Present',
       image: 'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Multi-story commercial complex ongoing construction.'
+    },
+    {
+      id: 9,
+      title: 'Three Storey Commercial Building',
+      category: 'commercial',
+      location: 'Awasi, Kisumu County',
+      year: '2013-Present',
+      image: 'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
+      description: 'Multi-story commercial complex ongoing construction.'
+    },
+    {
+      id: 10,
+      title: 'Three Storey Commercial Building',
+      category: 'commercial',
+      location: 'Awasi, Kisumu County',
+      year: '2013-Present',
+      image: 'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
+      description: 'Multi-story commercial complex ongoing construction.'
     }
   ];
 
