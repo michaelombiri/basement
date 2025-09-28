@@ -153,7 +153,7 @@ const Portfolio = () => {
                 <button
                   key={category.id}
                   onClick={() => setSelectedCategory(category.id)}
-                  className={`px-6 py-3 rounded-lg font-semibold transition-all duration-300 ${
+                  className={`px-6 py-3 rounded-lg font-semibold transition-all duration-300 {
                     selectedCategory === category.id
                       ? 'bg-amber-600 text-white'
                       : 'bg-gray-100 text-gray-700 hover:bg-amber-100 hover:text-amber-700'
