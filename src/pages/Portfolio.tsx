@@ -52,7 +52,7 @@ const Portfolio = () => {
       category: 'commercial',
       location: 'Rusinga Island',
       year: '2007-2008',
-      image: 'https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: holidayInn, //'https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Complete hotel construction with modern amenities.'
     },
     {
