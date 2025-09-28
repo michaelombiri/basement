@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { ExternalLink, Calendar, MapPin, DollarSign } from 'lucide-react';
+import logo from './residential.JPG';
 
 const Portfolio = () => {
   const [selectedCategory, setSelectedCategory] = useState('all');
@@ -11,7 +12,7 @@ const Portfolio = () => {
       category: 'residential',
       location: 'Eldoret, Uasin Gishu County',
       year: '2022',
-      image: 'https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: { logo } // 'https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Complete modern mansion with swimming pool and landscaping.'
     },
     {
