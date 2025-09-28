@@ -3,6 +3,17 @@ import { ExternalLink, Calendar, MapPin, DollarSign } from 'lucide-react';
 import residential from '../components/residential.png';
 import eldoretStorey from '../components/eldoretStorey.png';
 import sutecoOffice from '../components/sutecoOffice.png';
+import nyatambeClass from '../components/nyatambeClass.png';
+import kilgoris from '../components/kilgoris.png';
+import kilifiResidential from '../components/kilifiResidential.png';
+import residential4 from '../components/residential4.png';
+import residentialKilgoris from '../components/residentialKilgoris.png';
+import residentialSuite from '../components/residentialSuite.png';
+import septicTank from '../components/septicTank.png';
+import woodWork from '../components/woodWork.png';
+
+
+
 
 const Portfolio = () => {
   const [selectedCategory, setSelectedCategory] = useState('all');
@@ -14,7 +25,7 @@ const Portfolio = () => {
       category: 'residential',
       location: 'Eldoret, Uasin Gishu County',
       year: '2022',
-      image: eldoretStorey, //'https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: residentialSuite, //'https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Complete modern mansion with swimming pool and landscaping.'
     },
     {
@@ -32,7 +43,7 @@ const Portfolio = () => {
       category: 'educational',
       location: 'Homa Bay County',
       year: '2016-2017',
-      image: 'https://images.pexels.com/photos/256490/pexels-photo-256490.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: nyatambeClass, //'https://images.pexels.com/photos/256490/pexels-photo-256490.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Two modern classrooms with modern facilities.'
     },
     {
