@@ -7,7 +7,7 @@ import residential from './residential.JPG';
 const Services = () => {
   const services = [
     {
-      icon: Home,
+      //icon: Home,
       title: 'Residential Construction',
       description: 'Complete home construction from foundation to finishing, including modern mansions, bungalows, and apartment buildings.',
       features: ['Foundation work', 'Masonry construction', 'Roofing systems', 'Interior finishing', 'Plumbing & electrical']
