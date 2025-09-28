@@ -1,7 +1,7 @@
 import React from 'react';
 import { Home, Building, Wrench, Droplets, Loader as Road, Shield } from 'lucide-react';
 import residential from './residential.JPG';
-
+import eldoretMansionatte from '../components/eldoretMansionatte.png';
 
 
 const Services = () => {
@@ -187,7 +187,7 @@ const Services = () => {
             
             <div className="relative">
               <img
-                src="https://images.pexels.com/photos/273209/pexels-photo-273209.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src={eldoretMansionatte}//"https://images.pexels.com/photos/273209/pexels-photo-273209.jpeg?auto=compress&cs=tinysrgb&w=800"
                 alt="Kenya construction projects"
                 className="rounded-xl shadow-2xl"
               />
