@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { ExternalLink, Calendar, MapPin, DollarSign } from 'lucide-react';
 import residential from '../components/residential.png';
 import eldoretStorey from '../components/eldoretStorey.png';
-import sutecoOffice from '../sutecoOffice.png';
+import sutecoOffice from '../components/sutecoOffice.png';
 
 const Portfolio = () => {
   const [selectedCategory, setSelectedCategory] = useState('all');
