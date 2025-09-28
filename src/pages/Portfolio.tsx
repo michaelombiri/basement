@@ -13,7 +13,7 @@ const Portfolio = () => {
       category: 'residential',
       location: 'Eldoret, Uasin Gishu County',
       year: '2022',
-      image: eldoretStorey, //'https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: residential, //'https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Complete modern mansion with swimming pool and landscaping.'
     },
     {
