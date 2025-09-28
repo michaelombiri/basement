@@ -1,6 +1,7 @@
 import React from 'react';
 import { CheckCircle, Users, Award, Target, Eye } from 'lucide-react';
 import logo from './residential.JPG';
+import woodWork from '../components/woodWork.png';
 
 const About = () => {
   const team = [
@@ -67,7 +68,7 @@ const About = () => {
             </div>
             <div className="relative">
               <img
-                src="https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src=woodWork //"https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800"
                 alt="Construction excellence"
                 className="rounded-xl shadow-2xl"
               />
