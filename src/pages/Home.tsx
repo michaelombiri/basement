@@ -2,6 +2,8 @@ import React from 'react';
 import { ArrowRight, CheckCircle, Users, Award, Clock } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import kilgoris from '../components/kilgoris.png';
+import residential from '../components/residential.png';
+import officeSpace from '../components/officeSpace.png';
 
 const Home = () => {
   const stats = [
@@ -146,12 +148,12 @@ const Home = () => {
               {
                 title: 'Residential Construction',
                 description: 'Complete residential building construction from foundation to finishing.',
-                image: 'https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=800'
+                image: residential//'https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=800'
               },
               {
                 title: 'Commercial Buildings',
                 description: 'Office buildings, warehouses, and commercial complexes.',
-                image: 'https://images.pexels.com/photos/273209/pexels-photo-273209.jpeg?auto=compress&cs=tinysrgb&w=800'
+                image: officeSpace //'https://images.pexels.com/photos/273209/pexels-photo-273209.jpeg?auto=compress&cs=tinysrgb&w=800'
               },
               {
                 title: 'Infrastructure Projects',
