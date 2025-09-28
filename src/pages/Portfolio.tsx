@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 import { ExternalLink, Calendar, MapPin, DollarSign } from 'lucide-react';
 import residential from '../components/residential.png';
-import eldoretStorey from './../eldoretStorey.JPG'
+import eldoretStorey from '../components/eldoretStorey.png';
+import sutecoOffice from '../sutecoOffice.png';
 
 const Portfolio = () => {
   const [selectedCategory, setSelectedCategory] = useState('all');
@@ -13,7 +14,7 @@ const Portfolio = () => {
       category: 'residential',
       location: 'Eldoret, Uasin Gishu County',
       year: '2022',
-      image: residential, //'https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: eldoretStorey, //'https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Complete modern mansion with swimming pool and landscaping.'
     },
     {
@@ -22,7 +23,7 @@ const Portfolio = () => {
       category: 'commercial',
       location: 'Mbita, Homa Bay County',
       year: '2015-2016',
-      image: 'https://images.pexels.com/photos/273209/pexels-photo-273209.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: sutecoOffice, //'https://images.pexels.com/photos/273209/pexels-photo-273209.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Modern office building for SUTECO cooperative society.'
     },
     {
