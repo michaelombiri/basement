@@ -1,0 +1,219 @@
+import React from 'react';
+import { CheckCircle, Users, Award, Target, Eye } from 'lucide-react';
+
+const About = () => {
+  const team = [
+    {
+      name: 'Eng. Walter Odhiambo',
+      position: 'Director & Founder',
+      description: 'Established the company in 2005 with a vision to create a highly skilled construction firm.',
+    },
+  ];
+
+  const certifications = [
+    'National Construction Authority (NCA) Registration',
+    'Tax Compliance Certificate',
+    'Attorney General Registration',
+    'Professional Training Certificates',
+  ];
+
+  return (
+    <div className="min-h-screen bg-white">
+      {/* Hero Section */}
+      <section className="relative py-20 bg-gradient-to-br from-gray-900 to-amber-900 text-white">
+        <div className="absolute inset-0 bg-black/40"></div>
+        <div 
+          className="relative bg-cover bg-center bg-no-repeat"
+          style={{
+            backgroundImage: 'url("https://images.pexels.com/photos/1216589/pexels-photo-1216589.jpeg?auto=compress&cs=tinysrgb&w=1600")'
+          }}
+        >
+          <div className="absolute inset-0 bg-gradient-to-r from-black/80 to-black/40"></div>
+          <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="max-w-3xl">
+              <h1 className="text-5xl font-bold mb-6">About Basement Contractors Kenya</h1>
+              <p className="text-xl text-gray-200">
+                A truly Kenyan company truly empowered, building the nation with mortar, bricks, and powerful skills that come from our unity.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Company History */}
+      <section className="py-20 bg-white">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+            <div>
+              <h2 className="text-4xl font-bold text-gray-900 mb-6">Our Story</h2>
+              <div className="space-y-6 text-lg text-gray-600">
+                <p>
+                  Basement Contractors was established in the year 2005 by the director Eng. Walter Odhiambo, 
+                  who was committed to work with a group of highly skilled employees with years of hands-on experience 
+                  for the sole purpose of forming a small and highly skilled construction firm.
+                </p>
+                <p>
+                  Over the years, the company has undertaken many challenging projects and accumulated skills, 
+                  know-how and experience in design and building solutions, project management services and 
+                  other related engineering works.
+                </p>
+                <p>
+                  Although the company is based in Nyanza, we operate as far fields as Nairobi, Coast, Rift Valley, 
+                  Eastern, Central, Western and North Eastern Regions. We are always available with necessary 
+                  skills to meet any requirement in the field of general construction.
+                </p>
+              </div>
+            </div>
+            <div className="relative">
+              <img
+                src="https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800"
+                alt="Construction excellence"
+                className="rounded-xl shadow-2xl"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Vision & Mission */}
+      <section className="py-20 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
+            <div className="bg-white p-8 rounded-xl shadow-lg">
+              <div className="flex items-center mb-6">
+                <div className="bg-amber-100 p-3 rounded-full mr-4">
+                  <Eye className="h-8 w-8 text-amber-600" />
+                </div>
+                <h3 className="text-2xl font-bold text-gray-900">Our Vision</h3>
+              </div>
+              <p className="text-lg text-gray-600">
+                To be a respectable contractor delivering beyond expectation with excellent service at all times.
+              </p>
+            </div>
+            
+            <div className="bg-white p-8 rounded-xl shadow-lg">
+              <div className="flex items-center mb-6">
+                <div className="bg-amber-100 p-3 rounded-full mr-4">
+                  <Target className="h-8 w-8 text-amber-600" />
+                </div>
+                <h3 className="text-2xl font-bold text-gray-900">Our Mission</h3>
+              </div>
+              <p className="text-lg text-gray-600">
+                To safely deliver any project, in any environment on time and within budget to benefit our 
+                customers, employees and the communities we serve.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Values & Principles */}
+      <section className="py-20 bg-white">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">Our Values & Principles</h2>
+            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+              Basement aims to provide high quality construction solutions by adhering to sound ethical business principles and practices.
+            </p>
+          </div>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {[
+              "Providing customers with 'value for money' construction and development solutions",
+              "Incorporating environmental protection issues in corporate and private construction projects",
+              "Ensure customer satisfaction",
+              "Sound ethical principles",
+              "High quality guaranteed workmanship",
+              "Instill Health & Safety practices",
+              "Responsibility to the environment"
+            ].map((value, index) => (
+              <div key={index} className="flex items-start">
+                <CheckCircle className="h-6 w-6 text-amber-600 mr-3 mt-1 flex-shrink-0" />
+                <p className="text-gray-700">{value}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Team Section */}
+      <section className="py-20 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">Our Leadership</h2>
+            <p className="text-xl text-gray-600">
+              Basement Contractors consists of the Director Eng. Walter Odhiambo, field clerks, quality surveyor and qualified architectural draftsmen.
+            </p>
+          </div>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {team.map((member, index) => (
+              <div key={index} className="bg-white rounded-xl shadow-lg p-8 text-center">
+                <div className="w-24 h-24 bg-amber-100 rounded-full flex items-center justify-center mx-auto mb-6">
+                  <Users className="h-12 w-12 text-amber-600" />
+                </div>
+                <h3 className="text-xl font-bold text-gray-900 mb-2">{member.name}</h3>
+                <p className="text-amber-600 font-semibold mb-4">{member.position}</p>
+                <p className="text-gray-600">{member.description}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Certifications */}
+      <section className="py-20 bg-white">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">Certifications & Registrations</h2>
+            <p className="text-xl text-gray-600">
+              Basement Contractors is fully registered and compliant with all regulatory requirements.
+            </p>
+          </div>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+            {certifications.map((cert, index) => (
+              <div key={index} className="bg-gray-50 p-6 rounded-xl text-center">
+                <div className="w-16 h-16 bg-amber-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <Award className="h-8 w-8 text-amber-600" />
+                </div>
+                <p className="font-semibold text-gray-900">{cert}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Objectives */}
+      <section className="py-20 bg-amber-600">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <h2 className="text-4xl font-bold text-white mb-4">Our Objectives</h2>
+            <p className="text-xl text-amber-100">
+              Our commitment to excellence drives everything we do.
+            </p>
+          </div>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {[
+              "To deliver our clients the standard of quality specified in the contract within the budget",
+              "To meet all legal requirements",
+              "To create and maintain culture of quality within the company",
+              "To provide documentary evidence at all quality control measures",
+              "To seek feedback from our clients"
+            ].map((objective, index) => (
+              <div key={index} className="bg-white/10 backdrop-blur-sm p-6 rounded-xl">
+                <div className="flex items-start">
+                  <CheckCircle className="h-6 w-6 text-amber-200 mr-3 mt-1 flex-shrink-0" />
+                  <p className="text-white">{objective}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+    </div>
+  );
+};
+
+export default About;
