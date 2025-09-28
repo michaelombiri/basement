@@ -191,10 +191,7 @@ const Portfolio = () => {
                       <MapPin className="h-4 w-4 mr-2 text-amber-600" />
                       {project.location}
                     </div>
-                    <div className="flex items-center text-sm text-gray-600">
-                      <DollarSign className="h-4 w-4 mr-2 text-amber-600" />
-                      {project.value}
-                    </div>
+                    
                     <div className="flex items-center text-sm text-gray-600">
                       <Calendar className="h-4 w-4 mr-2 text-amber-600" />
                       {project.year}
