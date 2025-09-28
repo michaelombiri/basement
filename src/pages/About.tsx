@@ -67,7 +67,7 @@ const About = () => {
             </div>
             <div className="relative">
               <img
-                src={ residential } //"https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800"
                 alt="Construction excellence"
                 className="rounded-xl shadow-2xl"
               />
