@@ -31,20 +31,21 @@ const Contact = () => {
     },
     {
       icon: Mail,
-      title: 'Email Address',
-      details: ['odhiambootoeno30.wo@gmail.com'],
-      action: 'mailto:odhiambootoeno30.wo@gmail.com'
+      title: 'Address',
+      details: ['basementcontra25@gmail.com', 'P.O BOX 6, Mbita', 'P.O BOX 39, Awasi'],
+      action: 'mailto:basementcontra25@gmail.com'
     },
     {
       icon: MapPin,
       title: 'Office Locations',
-      details: ['P.O BOX 6, Mbita', 'P.O BOX 39, Awasi'],
+      details: ['Vipingo, Kilifi County', 'Mbita, Homabay County', 'Awasi, Kisumu County'
+],
       action: null
     },
     {
       icon: Clock,
       title: 'Working Hours',
-      details: ['Mon - Fri: 8:00 AM - 6:00 PM', 'Sat: 8:00 AM - 4:00 PM'],
+      details: ['Mon - Fri: 8:00 AM - 6:00 PM', 'Sat: Closed', 'Sun: 8:00 AM - 4:00 PM'],
       action: null
     }
   ];
