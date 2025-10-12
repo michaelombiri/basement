@@ -114,8 +114,8 @@ const Footer = () => {
                 >
                   basementcontra25@gmail.com
                 </a>
-                <p className="text-gray-400 hover:text-amber-600 transition-colors duration-300">P.O BOX 6, Mbita</p>
-                <p className="text-gray-400 hover:text-amber-600 transition-colors duration-300">P.O BOX 39, Awasi</p>
+                <p>P.O BOX 6, Mbita</p>
+                <p>P.O BOX 39, Awasi</p>
                   </div>
               </div>
                
