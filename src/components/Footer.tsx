@@ -115,10 +115,8 @@ const Footer = () => {
                   basementcontra25@gmail.com
                 </a>
                 </div>
-              </div>
-               
+              </div>  
             </div>
-
             {/* Service Areas */}
             <div className="mt-6">
               <h4 className="text-sm font-semibold text-white mb-3">Service Areas</h4>
