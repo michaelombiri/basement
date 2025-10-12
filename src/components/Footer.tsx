@@ -117,6 +117,11 @@ const Footer = () => {
                 <p>P.O BOX 6, Mbita</p>
                 <p>P.O BOX 39, Awasi</p>
                 </div>
+              <div className="flex items-center">
+                <Mail className="h-5 w-5 text-amber-600 mr-3 flex-shrink-0" />
+                <p>P.O BOX 6, Mbita</p>
+                <p>P.O BOX 39, Awasi</p>
+                </div>
               </div>
                
             </div>
