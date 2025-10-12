@@ -22,8 +22,9 @@ const Footer = () => {
               </div>
             </Link>
             <p className="text-gray-400 mb-6 leading-relaxed">
-              A truly Kenyan company truly empowered. Building Kenya's future with quality construction 
-              and powerful skills that come from our unity.
+              Building strong relationships by understanding and meeting clients’ needs on time and within budget 
+              while maintaining high quality standards, conducting business honestly, maintaining clear communication, 
+              and honoring commitments.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="bg-gray-800 p-2 rounded-full hover:bg-amber-600 transition-colors duration-300">
@@ -93,8 +94,9 @@ const Footer = () => {
               <div className="flex items-start">
                 <MapPin className="h-5 w-5 text-amber-600 mr-3 mt-1 flex-shrink-0" />
                 <div className="text-gray-400">
-                  <p>P.O BOX 6, Mbita</p>
-                  <p>P.O BOX 39, Awasi</p>
+                  <p>Vipingo, Kilifi County</p>
+                  <p>Mbita, Homabay County</p>
+                  <p>Awasi, Kisumu County</p>
                 </div>
               </div>
               <div className="flex items-center">
@@ -107,11 +109,13 @@ const Footer = () => {
               <div className="flex items-center">
                 <Mail className="h-5 w-5 text-amber-600 mr-3 flex-shrink-0" />
                 <a 
-                  href="mailto:odhiambootoeno30.wo@gmail.com" 
+                  href="mailto:basementcontra25@gmail.com" 
                   className="text-gray-400 hover:text-amber-600 transition-colors duration-300"
                 >
-                  odhiambootoeno30.wo@gmail.com
+                  basementcontra25@gmail.com
                 </a>
+                <p>P.O BOX 6, Mbita</p>
+                <p>P.O BOX 39, Awasi</p>
               </div>
             </div>
 
