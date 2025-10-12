@@ -50,19 +50,25 @@ const About = () => {
               <h2 className="text-4xl font-bold text-gray-900 mb-6">Our Story</h2>
               <div className="space-y-6 text-lg text-gray-600">
                 <p>
-                  Basement Contractors was established in the year 2005 by the director Eng. Walter Odhiambo, 
-                  who was committed to work with a group of highly skilled employees with years of hands-on experience 
-                  for the sole purpose of forming a small and highly skilled construction firm.
+                  Basement Contractors Ltd is a trusted name in the Kenyan Construction Industry, delivering high-quality, reliable, 
+                  and cost-effective building solutions. The company is Kenyan-based and was established in 2005 with its head Office in 
+                  Kilifi County, Vipingo. It also has a network of offices in Mbita, Homabay County and Awasi, Kisumu County. 
+                  We specialize in Residential, Commercial, and Industrial Construction projects, offering a full range of services
+                  including design-build, project management, general contracting, and renovation that exceed expectations in quality,
+                  safety, and sustainability.
                 </p>
                 <p>
-                  Over the years, the company has undertaken many challenging projects and accumulated skills, 
-                  know-how and experience in design and building solutions, project management services and 
-                  other related engineering works.
+                  Our dedicated team of professionals is passionate about building strong foundations — not just in concrete,
+                  but in trust and long-lasting relationships with our clients.  We are committed to excellence, safety, and innovation,
+                  ensuring each project is completed on time, within budget, and to the highest standards of quality. We pride ourselves
+                  on building strong relationships with clients, suppliers, and stakeholders through transparency, integrity, and dedication. 
+                  From initial design to project completion, we prioritize clear communication, timely delivery, and meticulous attention
+                  to detail.
                 </p>
                 <p>
-                  Although the company is based in Nyanza, we operate as far fields as Nairobi, Coast, Rift Valley, 
-                  Eastern, Central, Western and North Eastern Regions. We are always available with necessary 
-                  skills to meet any requirement in the field of general construction.
+                  Whether you’re planning a new build, renovation, or expansion, Basement Contractors is your reliable partner
+                  for turning ideas 
+                  into solid realities. Explore our services, see our portfolio, and discover how we can build your future today
                 </p>
               </div>
             </div>
@@ -89,7 +95,8 @@ const About = () => {
                 <h3 className="text-2xl font-bold text-gray-900">Our Vision</h3>
               </div>
               <p className="text-lg text-gray-600">
-                To be a respectable contractor delivering beyond expectation with excellent service at all times.
+               Basement Contractors aspires to be recognized as the leading construction company known for innovation, excellence,
+                and sustainability—building lasting structures that shape the future and improve the communities, we serve.
               </p>
             </div>
             
@@ -101,8 +108,9 @@ const About = () => {
                 <h3 className="text-2xl font-bold text-gray-900">Our Mission</h3>
               </div>
               <p className="text-lg text-gray-600">
-                To safely deliver any project, in any environment on time and within budget to benefit our 
-                customers, employees and the communities we serve.
+                To deliver high-quality, innovative, and sustainable construction solutions that exceed client expectations.
+                We are committed to safety, integrity, and efficiency in every project,
+                fostering strong partnerships and contributing to the growth and development of the communities we serve.
               </p>
             </div>
           </div>
@@ -113,21 +121,22 @@ const About = () => {
       <section className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-gray-900 mb-4">Our Values & Principles</h2>
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">Our Guiding Principles and Core Values</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Basement aims to provide high quality construction solutions by adhering to sound ethical business principles and practices.
+             Building strong relationships by understanding and meeting clients’ needs on time and within 
+              budget while maintaining high quality standards, conducting business honestly, maintaining clear 
+              communication, and honoring commitments.
             </p>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
-              "Providing customers with 'value for money' construction and development solutions",
-              "Incorporating environmental protection issues in corporate and private construction projects",
-              "Ensure customer satisfaction",
-              "Sound ethical principles",
-              "High quality guaranteed workmanship",
-              "Instill Health & Safety practices",
-              "Responsibility to the environment"
+              "Quality",
+              "Professionalism ",
+              "Transparency & Integrity",
+              "Safety",
+              "Sustainability",
+              "Customer Focus"
             ].map((value, index) => (
               <div key={index} className="flex items-start">
                 <CheckCircle className="h-6 w-6 text-amber-600 mr-3 mt-1 flex-shrink-0" />
