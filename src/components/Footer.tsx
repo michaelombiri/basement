@@ -114,8 +114,9 @@ const Footer = () => {
                 >
                   basementcontra25@gmail.com
                 </a>
-                <a href="">P.O BOX 6, Mbita</a>
-                <a href="">P.O BOX 39, Awasi</a>
+                <a href=""  className="text-gray-400 hover:text-amber-600 transition-colors duration-300">P.O BOX 6, Mbita</a>
+                <br/>
+                <a href=""  className="text-gray-400 hover:text-amber-600 transition-colors duration-300">P.O BOX 39, Awasi</a>
                   </div>
               </div>
                
