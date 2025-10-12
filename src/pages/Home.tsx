@@ -41,8 +41,9 @@ const Home = () => {
                 <span className="text-amber-400 block">Future Together</span>
               </h1>
               <p className="text-xl md:text-2xl mb-8 text-gray-200 leading-relaxed">
-                A truly Kenyan company truly empowered. We believe in working together 
-                to bring change through quality construction and powerful skills that come from our unity.
+               Building strong relationships by understanding and meeting clients’ needs on time and within budget
+                while maintaining high quality standards, conducting business honestly, maintaining clear communication,
+                and honoring commitments.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link
