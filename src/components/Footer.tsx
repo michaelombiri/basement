@@ -114,12 +114,11 @@ const Footer = () => {
                 >
                   basementcontra25@gmail.com
                 </a>
-               
-              </div>
-               <div className="flex items-center">
-                <p>P.O BOX 6, Mbita</p>
-                <p>P.O BOX 39, Awasi</p>
+                <a href="">P.O BOX 6, Mbita</a>
+                <a href="">P.O BOX 39, Awasi</a>
                   </div>
+              </div>
+               
             </div>
 
             {/* Service Areas */}
