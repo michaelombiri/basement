@@ -91,15 +91,13 @@ const Home = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
               <h2 className="text-4xl font-bold text-gray-900 mb-6">
-                Established in 2005 by Eng. Walter Odhiambo
+                //Established in 2005 by Eng. Walter Odhiambo
               </h2>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                Basement Contractors was established with a commitment to work with highly skilled employees 
-                with years of hands-on experience for the sole purpose of forming a small and highly skilled construction firm.
-              </p>
+               Basement Contractors Ltd is a trusted name in the Kenyan Construction Industry, delivering high-quality, reliable, and cost-effective building solutions. The company is Kenyan-based and was established in 2005 with its head Office in Kilifi County, Vipingo. It also has a network of offices in Mbita, Homabay County and Awasi, Kisumu County.
               <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                Over the years, we have undertaken many challenging projects and accumulated skills, 
-                know-how and experience in design and building solutions, project management services and other related engineering works.
+                We specialize in Residential, Commercial, and Industrial Construction projects, offering a full range of services including design-build, project management, general contracting, and renovation that exceed expectations in quality, safety, and sustainability.
+              </p>
               </p>
               
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
