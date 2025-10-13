@@ -319,7 +319,7 @@ const Portfolio = () => {
                   </div>
                   
                   <button className="w-full bg-amber-600 hover:bg-amber-700 text-white py-2 px-4 rounded-lg font-semibold transition-all duration-300 flex items-center justify-center group">
-                    View Details
+                  
                     <ExternalLink className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
                   </button>
                 </div>
