@@ -13,6 +13,19 @@ import holidayInn from '../components/holidayInn.png';
 import woodWork from '../components/woodWork.png';
 
 
+import kisome from '../components/kisomeBridge.jpeg';
+import eldoretStorey from '../components/eldoretStorey.png';
+import sutecoOffice from '../components/sutecoOffice.png';
+import nyatambeClass from '../components/nyatambeClass.png';
+import kilgoris from '../components/kilgoris.png';
+import kilifiResidential from '../components/kilifiResidential.png';
+import residential4 from '../components/residential4.png';
+import residentialKilgoris from '../components/residentialKilgoris.png';
+import residentialSuite from '../components/residentialSuite.png';
+import holidayInn from '../components/holidayInn.png';
+import woodWork from '../components/woodWork.png';
+
+
 
 
 const Portfolio = () => {
@@ -79,7 +92,7 @@ const Portfolio = () => {
       category: 'infrastructure',
       location: 'Buoye Kolwa East',
       year: '2020',
-      image: 'https://images.pexels.com/photos/1117452/pexels-photo-1117452.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: kisome,//'https://images.pexels.com/photos/1117452/pexels-photo-1117452.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Bridge construction project improving community connectivity.'
     },
     {
