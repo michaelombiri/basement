@@ -127,7 +127,7 @@ const Portfolio = () => {
     {
       id: 11,
       title: 'Residential House',
-      category: 'Residential',
+      category: residential',
       location: 'Moiben',
       year:  //'2013-Present',
       image: moiben, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
@@ -136,7 +136,7 @@ const Portfolio = () => {
     {
       id: 12,
       title: 'Interior Decoration',
-      category: 'Residential',
+      category: 'residential',
       location: 'Migori County',
       year:  //'2013-Present',
       image: migoriInterior, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
@@ -145,7 +145,7 @@ const Portfolio = () => {
     {
       id: 13,
       title: 'Modern Residential House',
-      category: 'Residential',
+      category: 'residential',
       location: 'Kilifi County',
       year:  //'2013-Present',
       image: pazuriResidential, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
