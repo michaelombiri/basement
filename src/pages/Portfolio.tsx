@@ -75,7 +75,7 @@ const Portfolio = () => {
       title: 'Modern Villa',
       category: 'residential',
       location: 'Kilifi County',
-      year:  ,
+      year: ' ',
       image: villaVipingo, //'https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Modern residential Villa at Vipingo Homes Kilifi.'
     },
