@@ -127,7 +127,7 @@ const Portfolio = () => {
     {
       id: 11,
       title: 'Residential House',
-      category: residential',
+      category: 'residential',
       location: 'Moiben',
       year: ' ',
       image: moiben, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
