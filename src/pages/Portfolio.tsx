@@ -12,7 +12,6 @@ import residentialSuite from '../components/residentialSuite.png';
 import holidayInn from '../components/holidayInn.png';
 import woodWork from '../components/woodWork.png';
 
-
 import kisome from '../components/kisomeBridge.jpeg';
 import eldoretCommercial1 from '../components/eldoretCommercial1.jpeg';
 import eldoretCom from '../components/eldoretCom.jpeg';
