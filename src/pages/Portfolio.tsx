@@ -23,7 +23,7 @@ import residentialEldoret from '../components/residentialEldoret.jpeg';
 import slabCastinglunga from '../components/slabCastinglunga.jpeg';
 
 import villaVipingo from '../components/villaVipingo.jpeg';
-import vipingoResidential2 from'../components/vipingoResidential2.jpeg';
+import vipingoPazuri from'../components/vipingoPazuri.jpeg';
 import vipingoRoad from '../components/vipingoRoad.jpeg';
 import villaVipingo2 from '../components/villaVipingo2.jpeg';
 import solarCarpet from '../components/solarCarpet.jpeg';
@@ -86,7 +86,7 @@ const Portfolio = () => {
       category: 'residential',
       location: 'Kilifi County',
       year: ' ',
-      image: vipingoResidential2, //'https://images.pexels.com/photos/1462630/pexels-photo-1462630.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: vipingoPazuri, //'https://images.pexels.com/photos/1462630/pexels-photo-1462630.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Modern residential house in the coastal parts of Kilifi'
     },
     {
