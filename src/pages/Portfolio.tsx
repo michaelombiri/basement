@@ -23,7 +23,7 @@ import residentialEldoret from '../components/residentialEldoret.jpeg';
 import slabCastinglunga from '../components/slabCastinglunga.jpeg';
 import solarCarpet from '../solarCarpet.jpeg';
 import villaVipingo from '../components/villaVipingo.jpeg';
-import vipingoResidential2 from '../components/vipingoResidential2.jpeg';
+import vipingoResidential2 from'../components/vipingoResidential2.jpeg';
 import vipingoRoad from '../vipingoRoad.jpeg';
 import villaVipingo2 from '../components/villaVipingo2.jpeg';
 
