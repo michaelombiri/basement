@@ -120,7 +120,7 @@ const Portfolio = () => {
       title: 'Commercial Building',
       category: 'commercial',
       location: 'Eldoret City',
-      year:  ,
+      year: ' ',
       image: eldoretCom, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Commercial complex ongoing construction.'
     },
@@ -129,7 +129,7 @@ const Portfolio = () => {
       title: 'Residential House',
       category: residential',
       location: 'Moiben',
-      year:  ,
+      year: ' ',
       image: moiben, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Construction of a residential storey building in Moiben.'
     },
