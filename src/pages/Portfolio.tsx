@@ -75,7 +75,7 @@ const Portfolio = () => {
       title: 'Modern Villa',
       category: 'residential',
       location: 'Kilifi County',
-      year:  //'2008-2010',
+      year:  ,
       image: villaVipingo, //'https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Modern residential Villa at Vipingo Homes Kilifi.'
     },
@@ -84,7 +84,7 @@ const Portfolio = () => {
       title: 'Vipingo Residential House',
       category: 'residential',
       location: 'Kilifi County',
-      year:  //'2017',
+      year:  ,
       image: vipingoResidential2, //'https://images.pexels.com/photos/1462630/pexels-photo-1462630.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Modern residential house in the coastal parts of Kilifi'
     },
@@ -94,7 +94,7 @@ const Portfolio = () => {
       category: 'infrastructure',
       location: 'Buoye Kolwa East',
       year: '2020',
-      image: kisome,//'https://images.pexels.com/photos/1117452/pexels-photo-1117452.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: kisome, //'https://images.pexels.com/photos/1117452/pexels-photo-1117452.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Bridge construction project improving community connectivity.'
     },
     {
@@ -120,7 +120,7 @@ const Portfolio = () => {
       title: 'Commercial Building',
       category: 'commercial',
       location: 'Eldoret City',
-      year:  //'2013-Present',
+      year:  ,
       image: eldoretCom, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Commercial complex ongoing construction.'
     },
@@ -129,7 +129,7 @@ const Portfolio = () => {
       title: 'Residential House',
       category: residential',
       location: 'Moiben',
-      year:  //'2013-Present',
+      year:  ,
       image: moiben, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Construction of a residential storey building in Moiben.'
     },
@@ -138,7 +138,7 @@ const Portfolio = () => {
       title: 'Interior Decoration',
       category: 'residential',
       location: 'Migori County',
-      year:  //'2013-Present',
+      year:  ,
       image: migoriInterior, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Residential Bungalow Interior Decoration completed work in migori.'
     },
@@ -147,7 +147,7 @@ const Portfolio = () => {
       title: 'Modern Residential House',
       category: 'residential',
       location: 'Kilifi County',
-      year:  //'2013-Present',
+      year:  ,
       image: pazuriResidential, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Modern residential home at Pazuri homes Kilifi.'
     },
@@ -156,7 +156,7 @@ const Portfolio = () => {
       title: 'Eldoret Residential House',
       category: 'residential',
       location: 'Eldoret City',
-      year:  //'2013-Present',
+      year:  ,
       image: residentialEldoret, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Construction and roofing of a storey residential house in Eldoret.'
     },
@@ -165,7 +165,7 @@ const Portfolio = () => {
       title: 'Slab Casting',
       category: 'commercial',
       location: 'Lunga Lunga',
-      year:  //'2013-Present',
+      year:  ,
       image: slabCastinglunga, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Slab casting for a commercial house a long Lunga Lunga road.'
     },
@@ -174,7 +174,7 @@ const Portfolio = () => {
       title: 'Solar Carpet',
       category: 'electrical',
       location: 'Kilifi County',
-      year:  //'2013-Present',
+      year:  ,
       image: solarCarpet, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Solar carpet offering solar energy and acting as a car parking shade in Vipingo Homes Kilifi.'
     },
@@ -183,7 +183,7 @@ const Portfolio = () => {
       title: 'Vipingo Road',
       category: 'infrastructure',
       location: 'Kilifi County',
-      year:  //'2013-Present',
+      year:  ,
       image: vipingoRoad, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'A road network connection homes at Vipingo Homes.'
     },
@@ -192,7 +192,7 @@ const Portfolio = () => {
       title: 'Vipingo Modern Villa',
       category: 'residential',
       location: 'Kilifi County',
-      year:  //'2013-Present',
+      year:  ,
       image: villaVipingo2, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'A modern residential home at Vipingo Homes.'
     }
