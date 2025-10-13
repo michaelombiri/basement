@@ -14,16 +14,19 @@ import woodWork from '../components/woodWork.png';
 
 
 import kisome from '../components/kisomeBridge.jpeg';
-import eldoretStorey from '../components/eldoretStorey.png';
-import sutecoOffice from '../components/sutecoOffice.png';
-import nyatambeClass from '../components/nyatambeClass.png';
-import kilgoris from '../components/kilgoris.png';
-import kilifiResidential from '../components/kilifiResidential.png';
-import residential4 from '../components/residential4.png';
-import residentialKilgoris from '../components/residentialKilgoris.png';
-import residentialSuite from '../components/residentialSuite.png';
-import holidayInn from '../components/holidayInn.png';
-import woodWork from '../components/woodWork.png';
+import eldoretCommercial1 from '../components/eldoretCommercial1.jpeg';
+import eldoretCom from '../components/eldoretCom.jpeg';
+import kisumu from '../components/kisumu.jpeg';
+import moiben from '../components/moiben.jpeg';
+import migoriInterior from '../components/migoriInterior';
+import pazuriResidential from '../components/pazuriResidential.jpeg';
+import residentialEldoret from '../components/residentialEldoret.jpeg';
+import slabCastinglunga from '../components/slabCastinglunga.jpeg';
+import solarCarpet from '../solarCarpet.jpeg';
+import villaVipingo from '../components/villaVipingo.jpeg';
+import vipingoResidential2 from '../components/vipingoResidential2.jpeg';
+import vipingoRoad from '../vipingoRoad.jpeg';
+import villaVipingo2 from '../components/villaVipingo2.jpeg';
 
 
 
@@ -70,21 +73,21 @@ const Portfolio = () => {
     },
     {
       id: 5,
-      title: 'Amazon Guest House',
-      category: 'commercial',
-      location: 'Mbita',
-      year: '2008-2010',
-      image: 'https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'Modern guest house with full hospitality facilities.'
+      title: 'Modern Villa',
+      category: 'residential',
+      location: 'Kilifi County',
+      year:  //'2008-2010',
+      image: villaVipingo, //'https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?auto=compress&cs=tinysrgb&w=800',
+      description: 'Modern residential Villa at Vipingo Homes Kilifi.'
     },
     {
       id: 6,
-      title: 'Hope School Dormitory',
-      category: 'educational',
-      location: 'Mbita Sub County',
-      year: '2017',
-      image: 'https://images.pexels.com/photos/1462630/pexels-photo-1462630.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'Modern dormitory facilities for students.'
+      title: 'Vipingo Residential House',
+      category: 'residential',
+      location: 'Kilifi County',
+      year:  //'2017',
+      image: vipingoResidential2, //'https://images.pexels.com/photos/1462630/pexels-photo-1462630.jpeg?auto=compress&cs=tinysrgb&w=800',
+      description: 'Modern residential house in the coastal parts of Kilifi'
     },
     {
       id: 7,
@@ -101,26 +104,98 @@ const Portfolio = () => {
       category: 'commercial',
       location: 'Awasi, Kisumu County',
       year: '2013-Present',
-      image: 'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: kisumu, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Multi-story commercial complex ongoing construction.'
     },
     {
       id: 9,
-      title: 'Three Storey Commercial Building',
+      title: 'Multi-Storey Commercial Building',
       category: 'commercial',
-      location: 'Awasi, Kisumu County',
+      location: 'Eldoret City',
       year: '2013-Present',
-      image: 'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: eldoretCommercial1, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Multi-story commercial complex ongoing construction.'
     },
     {
       id: 10,
-      title: 'Three Storey Commercial Building',
+      title: 'Commercial Building',
       category: 'commercial',
-      location: 'Awasi, Kisumu County',
-      year: '2013-Present',
-      image: 'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'Multi-story commercial complex ongoing construction.'
+      location: 'Eldoret City',
+      year:  //'2013-Present',
+      image: eldoretCom, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
+      description: 'Commercial complex ongoing construction.'
+    },
+    {
+      id: 11,
+      title: 'Residential House',
+      category: 'Residential',
+      location: 'Moiben',
+      year:  //'2013-Present',
+      image: moiben, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
+      description: 'Construction of a residential storey building in Moiben.'
+    },
+    {
+      id: 12,
+      title: 'Interior Decoration',
+      category: 'Residential',
+      location: 'Migori County',
+      year:  //'2013-Present',
+      image: migoriInterior, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
+      description: 'Residential Bungalow Interior Decoration completed work in migori.'
+    },
+    {
+      id: 13,
+      title: 'Modern Residential House',
+      category: 'Residential',
+      location: 'Kilifi County',
+      year:  //'2013-Present',
+      image: pazuriResidential, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
+      description: 'Modern residential home at Pazuri homes Kilifi.'
+    },
+    {
+      id: 14,
+      title: 'Eldoret Residential House',
+      category: 'residential',
+      location: 'Eldoret City',
+      year:  //'2013-Present',
+      image: residentialEldoret, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
+      description: 'Construction and roofing of a storey residential house in Eldoret.'
+    },
+    {
+      id: 15,
+      title: 'Slab Casting',
+      category: 'commercial',
+      location: 'Lunga Lunga',
+      year:  //'2013-Present',
+      image: slabCastinglunga, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
+      description: 'Slab casting for a commercial house a long Lunga Lunga road.'
+    },
+    {
+      id: 16,
+      title: 'Solar Carpet',
+      category: 'electrical',
+      location: 'Kilifi County',
+      year:  //'2013-Present',
+      image: solarCarpet, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
+      description: 'Solar carpet offering solar energy and acting as a car parking shade in Vipingo Homes Kilifi.'
+    },
+    {
+      id: 17,
+      title: 'Vipingo Road',
+      category: 'infrastructure',
+      location: 'Kilifi County',
+      year:  //'2013-Present',
+      image: vipingoRoad, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
+      description: 'A road network connection homes at Vipingo Homes.'
+    },
+    {
+      id: 18,
+      title: 'Vipingo Modern Villa',
+      category: 'residential',
+      location: 'Kilifi County',
+      year:  //'2013-Present',
+      image: villaVipingo2, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
+      description: 'A modern residential home at Vipingo Homes.'
     }
   ];
 
