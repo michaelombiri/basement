@@ -39,7 +39,7 @@ const Portfolio = () => {
       id: 1,
       title: 'Modern Residential Villa',
       category: 'residential',
-      location: 'Eldoret, Uasin Gishu County',
+      location: 'Kilifi County',
       year: '2022',
       image: residentialSuite, //'https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Complete modern mansion with swimming pool and landscaping.'
