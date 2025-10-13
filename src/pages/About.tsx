@@ -33,9 +33,9 @@ const About = () => {
           <div className="absolute inset-0 bg-gradient-to-r from-black/80 to-black/40"></div>
           <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="max-w-3xl">
-              <h1 className="text-5xl font-bold mb-6">About Basement Contractors Kenya</h1>
+              <h1 className="text-5xl font-bold mb-6">Basement Contractors Kenya</h1>
               <p className="text-xl text-gray-200">
-                A truly Kenyan company truly empowered, building the nation with mortar, bricks, and powerful skills that come from our unity.
+                Building strong relationships by understanding and meeting clients’ needs on time and within budget while maintaining high quality standards, conducting business honestly, maintaining clear communication, and honoring commitments.
               </p>
             </div>
           </div>
