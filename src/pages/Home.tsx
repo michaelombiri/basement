@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import kilgoris from '../components/kilgoris.png';
 import residential from '../components/residential.png';
 import officeSpace from '../components/officeSpace.png';
+import bridge from '../components/bridge.jpeg';
 
 const Home = () => {
   const stats = [
@@ -159,7 +160,7 @@ const Home = () => {
               {
                 title: 'Infrastructure Projects',
                 description: 'Roads, dams, drainage systems, and civil engineering works.',
-                image: 'https://images.pexels.com/photos/1117452/pexels-photo-1117452.jpeg?auto=compress&cs=tinysrgb&w=800'
+                image: bridge //'https://images.pexels.com/photos/1117452/pexels-photo-1117452.jpeg?auto=compress&cs=tinysrgb&w=800'
               }
             ].map((service, index) => (
               <div key={index} className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
