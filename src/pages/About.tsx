@@ -48,7 +48,7 @@ const About = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
               <h2 className="text-4xl font-bold text-gray-900 mb-6">Our Story</h2>
-              <div className="space-y-6 text-lg text-gray-600">
+              <div className="space-y-6 text-lg text-gray-500">
                 <p>
                   Basement Contractors Ltd is a trusted name in the Kenyan Construction Industry, delivering high-quality, reliable, 
                   and cost-effective building solutions. The company is Kenyan-based and was established in 2005 with its head Office in 
