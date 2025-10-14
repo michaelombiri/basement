@@ -15,12 +15,12 @@ const Home = () => {
   ];
 
   const features = [
-    'Value for money construction solutions',
-    'Environmental protection in all projects',
-    'Customer satisfaction guaranteed',
-    'High quality workmanship',
-    'Health & safety practices',
-    'Professional project management',
+    'Quality',
+    'Professionalism ',
+    'Transparency & Integrity',
+    'Safety',
+    'Sustainability',
+    'Customer Focus',
   ];
 
   return (
@@ -97,7 +97,9 @@ const Home = () => {
               <br/>
                 <br/>
                 <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                We specialize in Residential, Commercial, and Industrial Construction projects, offering a full range of services including design-build, project management, general contracting, and renovation that exceed expectations in quality, safety, and sustainability.
+              Below are few of our Core Value
+                 
+
               </p>
               </p>
               
