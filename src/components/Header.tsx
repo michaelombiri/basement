@@ -30,7 +30,7 @@ const Header = () => {
               <div>
                 <span className="text-2xl font-bold text-gray-900">Basement</span>
                 <span className="text-2xl font-bold text-amber-600"> Contractors</span>
-                <div className="text-sm text-gray-600">Kenya</div>
+                <div className="text-sm text-gray-600">Limited</div>
               </div>
             </Link>
           </div>
