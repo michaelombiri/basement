@@ -29,7 +29,7 @@ const Home = () => {
       <section className="relative bg-gradient-to-br from-gray-900 via-gray-800 to-amber-900 text-white">
         <div className="absolute inset-0 bg-black/40"></div>
         <div 
-          className="relative min-h-[600px] flex items-center bg-cover bg-center bg-no-repeat"
+          className="relative min-h-[400px] flex items-center bg-cover bg-center bg-no-repeat"
           style={{
             backgroundImage: 'url("https://images.pexels.com/photos/159306/construction-site-build-construction-work-159306.jpeg?auto=compress&cs=tinysrgb&w=1600")'
           }}
