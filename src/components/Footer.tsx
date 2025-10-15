@@ -112,7 +112,7 @@ const Footer = () => {
                   href="mailto:basementcontra25@gmail.com" 
                   className="text-gray-400 hover:text-amber-600 transition-colors duration-300"
                 >
-                  basementcontra25@gmail.com
+info@basementcontractors.co.ke
                 </a>
                 </div> 
             </div>
