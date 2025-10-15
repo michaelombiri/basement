@@ -123,7 +123,7 @@ const About = () => {
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-900 mb-4">Guiding Principles and </h2>
             <h3 className="text-4xl font-bold text-gray-900 mb-4">Core Values</h3>
-            <p className="text-4xl text-gray-600 max-w-3xl mx-auto">
+            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
              Building strong relationships by understanding and meeting clients’ needs on time and within 
               budget while maintaining high quality standards, conducting business honestly, maintaining clear 
               communication, and honoring commitments.
