@@ -33,7 +33,7 @@ const About = () => {
           <div className="absolute inset-0 bg-gradient-to-r from-black/80 to-black/40"></div>
           <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="max-w-3xl">
-              <h1 className="text-5xl font-bold mb-6">Basement Contractors Kenya</h1>
+              <h1 className="text-5xl font-bold mb-6">Basement Contractors Limited</h1>
               <p className="text-xl text-gray-200">
                 Building strong relationships by understanding and meeting clients’ needs on time and within budget while maintaining high quality standards, conducting business honestly, maintaining clear communication, and honoring commitments.
               </p>
@@ -48,7 +48,7 @@ const About = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
               <h2 className="text-4xl font-bold text-gray-900 mb-6">Our Story</h2>
-              <div className="space-y-5 text-lg text-gray-400">
+              <div className="space-y-9 text-lg text-gray-600">
                 <p>
                   Basement Contractors Ltd is a trusted name in the Kenyan Construction Industry, delivering high-quality, reliable, 
                   and cost-effective building solutions. The company is Kenyan-based and was established in 2005 with its head Office in 
@@ -121,7 +121,9 @@ const About = () => {
       <section className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-gray-900 mb-4">Our Guiding Principles and Core Values</h2>
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">
+            </h2>Guiding Principles and </h2>
+            <h3>Core Values</h3>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
              Building strong relationships by understanding and meeting clients’ needs on time and within 
               budget while maintaining high quality standards, conducting business honestly, maintaining clear 
