@@ -2,7 +2,7 @@ import React from 'react';
 import { Home, Building, Wrench, Droplets, Loader as Road, Shield } from 'lucide-react';
 import residential from './residential.JPG';
 import eldoretMansionatte from '../components/eldoretMansionatte.png';
-
+import { Link } from 'react-router-dom';
 
 const Services = () => {
   const services = [
@@ -210,12 +210,12 @@ const Services = () => {
             Contact us today for a free consultation and detailed quote for your construction needs.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a
-              href="/contact"
+            <Link
+              to="/contact"
               className="bg-white text-amber-600 hover:bg-gray-100 px-8 py-4 rounded-lg text-lg font-semibold transition-all duration-300"
             >
-              Get Free Quote
-            </a>
+              Get a Quote
+            </Link>
             <a
               href="tel:+254722118336"
               className="border-2 border-white text-white hover:bg-white hover:text-amber-600 px-8 py-4 rounded-lg text-lg font-semibold transition-all duration-300"
