@@ -214,7 +214,7 @@ const Portfolio = () => {
   return (
     <div className="min-h-screen bg-white">
       {/* Hero Section */}
-      <section className="relative py-5 bg-gradient-to-br from-gray-900 to-amber-900 text-white">
+      <section className="relative py-15 bg-gradient-to-br from-gray-900 to-amber-900 text-white">
         <div className="absolute inset-0 bg-black/40"></div>
         <div 
           className="relative bg-cover bg-center bg-no-repeat"
