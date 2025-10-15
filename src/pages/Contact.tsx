@@ -32,8 +32,8 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Address',
-      details: ['basementcontra25@gmail.com', 'P.O BOX 6, Mbita', 'P.O BOX 39, Awasi'],
-      action: 'mailto:basementcontra25@gmail.com'
+      details: ['info@basementcontractors.co.ke', 'P.O BOX 6, Mbita', 'P.O BOX 39, Awasi'],
+      action: 'mailto:info@basementcontractors.co.ke'
     },
     {
       icon: MapPin,
