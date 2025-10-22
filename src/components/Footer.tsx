@@ -109,7 +109,7 @@ const Footer = () => {
               <div className="flex items-center">
                 <Mail className="h-5 w-5 text-amber-600 mr-3 flex-shrink-0" />
                 <a 
-                  href="info@basementcontractors.co.ke" 
+                  href="mailto:info@basementcontractors.co.ke" 
                   className="text-gray-400 hover:text-amber-600 transition-colors duration-300"
                 >
 info@basementcontractors.co.ke
