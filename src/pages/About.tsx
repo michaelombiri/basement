@@ -57,7 +57,6 @@ const About = () => {
                   including design-build, project management, general contracting, and renovation that exceed expectations in quality,
                   safety, and sustainability.
                 </p>
-               
                 <p>
                   Whether you’re planning a new build, renovation, or expansion, Basement Contractors is your reliable partner
                   for turning ideas 
