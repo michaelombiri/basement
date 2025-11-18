@@ -94,8 +94,8 @@ const Footer = () => {
               <div className="flex items-start">
                 <MapPin className="h-5 w-5 text-amber-600 mr-3 mt-1 flex-shrink-0" />
                 <div className="text-gray-400">
-                  <p>Vipingo, Kilifi County</p>
-                  <p>Mbita, Homabay County</p>
+                  <p>Nairobi Office- Outering RD, Caltex Donholm</p>
+                  <p>Kilifi Office - Vipingo, Mombasa Malindi Highway</p>
                   <p>Awasi, Kisumu County</p>
                 </div>
               </div>
