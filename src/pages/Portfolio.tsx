@@ -103,7 +103,7 @@ const Portfolio = () => {
       title: 'Complete Multi-Storey Complex',
       category: 'commercial',
       location: 'Awasi, Kisumu County',
-      year: '2013-Present',
+      year: '2013',
       image: kisumu, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Multi-story commercial complex ongoing construction.'
     },
@@ -112,7 +112,7 @@ const Portfolio = () => {
       title: 'Multi-Storey Commercial Building',
       category: 'commercial',
       location: 'Eldoret City',
-      year: '2013-Present',
+      year: '2013',
       image: eldoretCommercial1, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Multi-story commercial complex ongoing construction.'
     },
