@@ -146,7 +146,8 @@ const About = () => {
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-900 mb-4">Our Leadership</h2>
             <p className="text-xl text-gray-600">
-              Basement Contractors consists of the Director Eng. Walter Odhiambo, field clerks, quality surveyor and qualified architectural draftsmen.
+              Consist of a team of Qualified and Competent professionals including Architects, 
+              Engineers, Quantity Surveyors, Draftsmen, Project Managers, Foremen and Feild clerks. 
             </p>
           </div>
           
