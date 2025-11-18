@@ -157,7 +157,7 @@ const Portfolio = () => {
       title: 'Eldoret Residential House',
       category: 'residential',
       location: 'Eldoret City',
-      year: ' ',
+      year: '2017',
       image: residentialEldoret, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Construction and roofing of a storey residential house in Eldoret.'
     },
@@ -165,35 +165,35 @@ const Portfolio = () => {
       id: 15,
       title: 'Slab Casting',
       category: 'commercial',
-      location: 'Lunga Lunga',
-      year: ' ',
+      location: 'Lunga Lunga, Nairobi',
+      year: '2024',
       image: slabCastinglunga, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Slab casting for a commercial house a long Lunga Lunga road.'
     },
     {
       id: 16,
-      title: 'Solar Carpet',
+      title: 'Solar Carpet in Pazuri at Vipingo',
       category: 'electrical',
       location: 'Kilifi County',
-      year: ' ',
+      year: '2025',
       image: solarCarpet, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Solar carpet offering solar energy and acting as a car parking shade in Vipingo Homes Kilifi.'
     },
     {
       id: 17,
-      title: 'Vipingo Road',
+      title: 'A road Network at Vipingo Special Economic Zone',
       category: 'infrastructure',
       location: 'Kilifi County',
-      year: ' ',
+      year: '2025',
       image: vipingoRoad, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'A road network connection homes at Vipingo Homes.'
     },
     {
       id: 18,
-      title: 'Vipingo Modern Villa',
+      title: 'A Modern Residential Home',
       category: 'residential',
-      location: 'Kilifi County',
-      year: ' ',
+      location: 'Pazuri at Vipingo',
+      year: ' 2023 - 2024',
       image: villaVipingo2, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'A modern residential home at Vipingo Homes.'
     }
