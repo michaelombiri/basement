@@ -96,7 +96,7 @@ const Footer = () => {
                 <div className="text-gray-400">
                   <p>Nairobi Office- Outering RD, Caltex Donholm</p>
                   <p>Kilifi Office - Vipingo, Mombasa Malindi Highway</p>
-                  <p>Awasi, Kisumu County</p>
+                 
                 </div>
               </div>
               <div className="flex items-center">
