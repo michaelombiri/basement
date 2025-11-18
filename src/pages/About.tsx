@@ -57,14 +57,14 @@ const About = () => {
                   including design-build, project management, general contracting, and renovation that exceed expectations in quality,
                   safety, and sustainability.
                 </p>
-                <p>
+                /*<p>
                   Our dedicated team of professionals is passionate about building strong foundations — not just in concrete,
                   but in trust and long-lasting relationships with our clients.  We are committed to excellence, safety, and innovation,
                   ensuring each project is completed on time, within budget, and to the highest standards of quality. We pride ourselves
                   on building strong relationships with clients, suppliers, and stakeholders through transparency, integrity, and dedication. 
                   From initial design to project completion, we prioritize clear communication, timely delivery, and meticulous attention
                   to detail.
-                </p>
+                </p> */
                 <p>
                   Whether you’re planning a new build, renovation, or expansion, Basement Contractors is your reliable partner
                   for turning ideas 
