@@ -38,7 +38,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: 'Office Locations',
-      details: ['Vipingo, Kilifi County', 'Mbita, Homabay County', 'Awasi, Kisumu County'
+      details: ['Nairobi office - Outering Caltex Donholm', 'Kilifi office - Vipingo Mombasa_Malindi Highway'
 ],
       action: null
     },
