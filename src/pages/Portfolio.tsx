@@ -37,10 +37,10 @@ const Portfolio = () => {
   const projects = [
     {
       id: 1,
-      title: 'Modern Residential Villa',
+      title: 'Complete modern Mansion with a Swimming and Landscaping (Vipingo Ridge)',
       category: 'residential',
       location: 'Kilifi County',
-      year: '2022',
+      year: '2021 - 2022',
       image: residentialSuite, //'https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Complete modern mansion with swimming pool and landscaping.'
     },
@@ -64,25 +64,25 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      title: 'Holiday Inn Rusinga',
+      title: 'Rusinga Guest House',
       category: 'commercial',
       location: 'Rusinga Island',
-      year: '2007-2008',
+      year: '2008-2010',
       image: holidayInn, //'https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Complete hotel construction with modern amenities.'
     },
     {
       id: 5,
-      title: 'Modern Villa',
+      title: 'Modern Residential Villa in Pazuri at Vipingo',
       category: 'residential',
       location: 'Kilifi County',
-      year: ' ',
+      year: '2024',
       image: villaVipingo, //'https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Modern residential Villa at Vipingo Homes Kilifi.'
     },
     {
       id: 6,
-      title: 'Vipingo Residential House',
+      title: 'Modern Residential House at Pazuri',
       category: 'residential',
       location: 'Kilifi County',
       year: ' ',
@@ -100,7 +100,7 @@ const Portfolio = () => {
     },
     {
       id: 8,
-      title: 'Three Storey Commercial Building',
+      title: 'Complete Multi-Storey Complex',
       category: 'commercial',
       location: 'Awasi, Kisumu County',
       year: '2013-Present',
@@ -118,10 +118,10 @@ const Portfolio = () => {
     },
     {
       id: 10,
-      title: 'Commercial Building',
+      title: 'Construction f a Commercial Complex',
       category: 'commercial',
-      location: 'Eldoret City',
-      year: ' ',
+      location: 'Kisumu City',
+      year: '2011-2012',
       image: eldoretCom, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Commercial complex ongoing construction.'
     },
@@ -130,7 +130,7 @@ const Portfolio = () => {
       title: 'Residential House',
       category: 'residential',
       location: 'Moiben',
-      year: ' ',
+      year: '2017 - 2018',
       image: moiben, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Construction of a residential storey building in Moiben.'
     },
@@ -139,16 +139,16 @@ const Portfolio = () => {
       title: 'Interior Decoration',
       category: 'residential',
       location: 'Migori County',
-      year: ' ',
+      year: '2024',
       image: migoriInterior, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Residential Bungalow Interior Decoration completed work in migori.'
     },
     {
       id: 13,
-      title: 'Modern Residential House',
+      title: 'Modern Residential House at Vipingo',
       category: 'residential',
       location: 'Kilifi County',
-      year: ' ',
+      year: '2024',
       image: pazuriResidential, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
       description: 'Modern residential home at Pazuri homes Kilifi.'
     },
