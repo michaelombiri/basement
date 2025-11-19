@@ -32,7 +32,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Address',
-      details: ['info@basementcontractors.co.ke', 'P.O BOX 6, Mbita', 'P.O BOX 39, Awasi'],
+      details: ['info@basementcontractors.co.ke'],
       action: 'mailto:info@basementcontractors.co.ke'
     },
     {
