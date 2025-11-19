@@ -145,7 +145,7 @@ const Portfolio = () => {
     },
     {
       id: 13,
-      title: 'Modern Residential House in Vipingo at Pazuri',
+      title: 'Modern Residential House in Pazuri at Vipingo',
       category: 'residential',
       location: 'Kilifi County',
       year: '2024',
@@ -177,16 +177,16 @@ const Portfolio = () => {
       location: 'Kilifi County',
       year: '2025',
       image: solarCarpet, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'Solar carport offering solar energy and acting as a car parking shade in Vipingo at Pazuri.'
+      description: 'Solar carport offering solar energy and acting as a car parking shade in Pazuri at Vipingo.'
     },
     {
       id: 17,
-      title: 'A road Network at Vipingo Special Economic Zone',
+      title: 'A road Network at Pazuri Special Economic Zone',
       category: 'infrastructure',
       location: 'Kilifi County',
       year: '2025',
       image: vipingoRoad, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'A road network connecting homes in Vipingo at Pazuri.'
+      description: 'A road network connecting homes in Pazuri at Vipingo.'
     },
     {
       id: 18,
@@ -195,7 +195,7 @@ const Portfolio = () => {
       location: 'Pazuri at Vipingo',
       year: ' 2023 - 2024',
       image: villaVipingo2, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'A modern residential home in Vipingo at Pazuri.'
+      description: 'A modern residential home in Pazuri at Vipingo.'
     }
   ];
 
