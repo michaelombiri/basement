@@ -78,16 +78,16 @@ const Portfolio = () => {
       location: 'Kilifi County',
       year: '2024',
       image: villaVipingo, //'https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'Modern residential Villa at Vipingo Homes Kilifi.'
+      description: 'Modern residential Villa in Vipingo at Pazuri.'
     },
     {
       id: 6,
-      title: 'Modern Residential House at Pazuri',
+      title: 'Modern Residential House in Pazuri at Vipingo',
       category: 'residential',
       location: 'Kilifi County',
       year: ' ',
       image: vipingoPazuri, //'https://images.pexels.com/photos/1462630/pexels-photo-1462630.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'Modern residential house in the coastal parts of Kilifi'
+      description: 'Modern residential house in Vipingo at Pazuri'
     },
     {
       id: 7,
@@ -100,12 +100,12 @@ const Portfolio = () => {
     },
     {
       id: 8,
-      title: 'Complete Multi-Storey Complex',
+      title: 'Multi-Storey Complex',
       category: 'commercial',
       location: 'Awasi, Kisumu County',
       year: '2013',
       image: kisumu, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'Multi-story commercial complex ongoing construction.'
+      description: 'Multi-story commercial complex.'
     },
     {
       id: 9,
@@ -114,16 +114,16 @@ const Portfolio = () => {
       location: 'Eldoret City',
       year: '2013',
       image: eldoretCommercial1, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'Multi-story commercial complex ongoing construction.'
+      description: 'Multi-story commercial complex.'
     },
     {
       id: 10,
-      title: 'Construction f a Commercial Complex',
+      title: 'Construction of a Commercial Complex',
       category: 'commercial',
       location: 'Kisumu City',
       year: '2011-2012',
       image: eldoretCom, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'Commercial complex ongoing construction.'
+      description: 'Commercial complex.'
     },
     {
       id: 11,
@@ -145,12 +145,12 @@ const Portfolio = () => {
     },
     {
       id: 13,
-      title: 'Modern Residential House at Vipingo',
+      title: 'Modern Residential House in Vipingo at Pazuri',
       category: 'residential',
       location: 'Kilifi County',
       year: '2024',
       image: pazuriResidential, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'Modern residential home at Pazuri homes Kilifi.'
+      description: 'Modern residential home in Pazuri at Vipingo.'
     },
     {
       id: 14,
@@ -172,12 +172,12 @@ const Portfolio = () => {
     },
     {
       id: 16,
-      title: 'Solar Carpet in Pazuri at Vipingo',
+      title: 'Solar Carport in Pazuri at Vipingo',
       category: 'electrical',
       location: 'Kilifi County',
       year: '2025',
       image: solarCarpet, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'Solar carpet offering solar energy and acting as a car parking shade in Vipingo Homes Kilifi.'
+      description: 'Solar carport offering solar energy and acting as a car parking shade in Vipingo at Pazuri.'
     },
     {
       id: 17,
@@ -186,7 +186,7 @@ const Portfolio = () => {
       location: 'Kilifi County',
       year: '2025',
       image: vipingoRoad, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'A road network connection homes at Vipingo Homes.'
+      description: 'A road network connecting homes in Vipingo at Pazuri.'
     },
     {
       id: 18,
@@ -195,7 +195,7 @@ const Portfolio = () => {
       location: 'Pazuri at Vipingo',
       year: ' 2023 - 2024',
       image: villaVipingo2, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'A modern residential home at Vipingo Homes.'
+      description: 'A modern residential home in Vipingo at Pazuri.'
     }
   ];
 
