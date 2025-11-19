@@ -181,7 +181,7 @@ const Portfolio = () => {
     },
     {
       id: 17,
-      title: 'A road Network at Vipingo Special Economic Zone',
+      title: 'A Road Network at Vipingo Special Economic Zone, Kilifi County',
       category: 'infrastructure',
       location: 'Kilifi County',
       year: '2025',
