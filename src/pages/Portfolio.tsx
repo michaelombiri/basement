@@ -78,16 +78,16 @@ const Portfolio = () => {
       location: 'Kilifi County',
       year: '2024',
       image: villaVipingo, //'https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'Modern residential Villa in Vipingo at Pazuri.'
+      description: 'Modern residential Villa in Pazuri at Vipingo.'
     },
     {
       id: 6,
       title: 'Modern Residential House in Pazuri at Vipingo',
       category: 'residential',
       location: 'Kilifi County',
-      year: ' ',
+      year: '2023',
       image: vipingoPazuri, //'https://images.pexels.com/photos/1462630/pexels-photo-1462630.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'Modern residential house in Vipingo at Pazuri'
+      description: 'Modern residential house in Pazuri at Vipingo'
     },
     {
       id: 7,
