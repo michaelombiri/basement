@@ -181,12 +181,12 @@ const Portfolio = () => {
     },
     {
       id: 17,
-      title: 'A Road Network at Vipingo Special Economic Zone, Kilifi County',
+      title: 'A Road Network at Vipingo Special Economic Zone, Kilifi County.',
       category: 'infrastructure',
       location: 'Kilifi County',
       year: '2025',
       image: vipingoRoad, //'https://images.pexels.com/photos/3992949/pexels-photo-3992949.jpeg?auto=compress&cs=tinysrgb&w=800',
-      description: 'A road network connecting homes in Pazuri at Vipingo.'
+      description: 'A Road Network at Vipingo Special Economic Zone, Kilifi County'
     },
     {
       id: 18,
