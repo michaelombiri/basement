@@ -24,7 +24,7 @@ import slabCastinglunga from '../components/slabCastinglunga.jpeg';
 
 import villaVipingo from '../components/villaVipingo.jpeg';
 import vipingoPazuri from'../components/vipingoPazuri.jpeg';
-import vipingoRoad from '../components/vipingoRoad.jpeg';
+import vipingoRoad from '../components/roadd.jpg';
 import villaVipingo2 from '../components/villaVipingo2.jpeg';
 import solarCarpet from '../components/solarCarpet.jpeg';
 
