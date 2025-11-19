@@ -9,7 +9,7 @@ import kilifiResidential from '../components/kilifiResidential.png';
 import residential4 from '../components/residential4.png';
 import residentialKilgoris from '../components/residentialKilgoris.png';
 import residentialSuite from '../components/residentialSuite.png';
-import holidayInn from '../components/holidayInn.png';
+import holidayInn from '../components/unnamed.jpg';
 import woodWork from '../components/woodWork.png';
 
 import kisome from '../components/kisomeBridge.jpeg';
