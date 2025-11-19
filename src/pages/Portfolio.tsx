@@ -181,7 +181,7 @@ const Portfolio = () => {
     },
     {
       id: 17,
-      title: 'A road Network at Pazuri Special Economic Zone',
+      title: 'A road Network at Vipingo Special Economic Zone',
       category: 'infrastructure',
       location: 'Kilifi County',
       year: '2025',
